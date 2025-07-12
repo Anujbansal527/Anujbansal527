@@ -50,8 +50,7 @@ I'm a passionate Web Developer currently working at **REDVision Technologies**, 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anujbansal527&show_icons=true&theme=github_dark" alt="Anuj Bansal GitHub Stats" />
-  <br/>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=Anujbansal527&show_icons=true&theme=github_dark" alt="Anuj Bansal GitHub Stats" />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujbansal527&layout=compact&theme=github_dark" />
 </p>
 
