@@ -59,7 +59,7 @@ I'm a passionate Web Developer currently working at **REDVision Technologies**, 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anuj-bansal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/anujbansal527" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Anujbansal527" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:anujbansal527@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.instagram.com/anujbansal527/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" alt="Instagram"/></a>
