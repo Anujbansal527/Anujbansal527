@@ -37,7 +37,7 @@ I'm a passionate Web Developer currently working at **REDVision Technologies**, 
 `Next.js` `React.js` `Tailwind CSS` `Bootstrap` `Responsive UI`
 
 **Backend:**  
-`PHP` (Current), `Node.js` & `Express.js` (MERN Experience), `MongoDB`, `MySQL`
+`Node js`(Current)  & `Express.js` (MERN Experience), `Php`, `MongoDB`, `MySQL`
 
 **Tools & Design:**  
 `Figma` `Git & GitHub` `Postman` `VS Code` `Jira`
